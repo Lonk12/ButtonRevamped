@@ -1,0 +1,8 @@
+﻿<Window x:Class="Button.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="The Button of Mystery" Height="300" Width="300" Name="Button1">
+    <Grid Background="#FF303133">
+        <Button x:Name="Button2" Height="41" Margin="38,0,38,0" VerticalAlignment="Center" ContentStringFormat="" Content="Do Not Click This Button" Background="#FF093B9E" BorderBrush="Black" Foreground="#FFD7DCE6"/>
+    </Grid>
+</Window>
